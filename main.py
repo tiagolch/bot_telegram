@@ -177,9 +177,9 @@ def responder(mensagem):
     text = """
     Escolha uma das opções abaixo: (click em um link)
 
-        /Escala_Broadcast - Para ver a escala desse mês
-        /Escala_DI - Para ver a escala do mês anterior
-        /Escala_Diaconato- Para ver a escala do mês seguinte
+        /Escala_Broadcast - Para ver a escala da equipe de transmissão
+        /Escala_DI - Para ver a escala da responsavel 
+        /Escala_Diaconato- Para ver a escala dos envolvidos
     
 Voce deve escolher uma das opções acima para que eu possa te ajudar.
     """
