@@ -1,7 +1,7 @@
 import telebot
 
 
-CHAVE_API = '<ChaveFornecidaPelo_FatherBot_doTelegram>'
+CHAVE_API = '<ChaveFornecidaPelo_BotFather_doTelegram>'
 bot = telebot.TeleBot(CHAVE_API)
 
 
